@@ -1,0 +1,50 @@
+    <!--deposit_open-->
+    <string name="deposit_open_amount_view_title">Сумма</string>
+
+    <string name="deposit_open_selector_account_title">Перечислить со счёта</string>
+    <string name="deposit_open_selector_account_text">Выберите счёт</string>
+    <string name="deposit_open_selector_account_description">Не выбрано</string>
+    <string name="deposit_open_selector_account_error">Обязательно заполните</string>
+    <string name="deposit_open_select_account_dialog_title">С какого счёта списать?</string>
+
+    <string name="deposit_open_designer_fragment_toolbar_title">Открыть вклад</string>
+    <string name="deposit_open_designer_fragment_banner_title">Альфа-Вклады</string>
+    <string name="deposit_open_designer_fragment_banner_description">Быстрый подбор вклада\nиз готовых вариантов\nПодробнее ></string>
+
+    <string name="deposit_open_designer_fragment_conditions_title">Прочие условия вклада</string>
+    <string name="deposit_open_designer_fragment_conditions_income_action_title">Выплата процентов/Капитализация</string>
+    <string name="deposit_open_designer_fragment_conditions_income_action_period_title">Период выплаты процентов</string>
+
+    <string name="deposit_open_designer_fragment_income_amount_title">доход по вкладу, %s</string>
+    <string name="deposit_open_designer_fragment_income_rate_title">процентная ставка</string>
+
+    <string name="deposit_open_message_box_accounts_empty_title">У вас нет подходящего счёта</string>
+    <string name="deposit_open_message_box_accounts_empty_description">Чтобы оформить вклад, откройте, пожалуйста, счёт в нужной валюте</string>
+
+    <string name="deposit_open_designer_view_title">Конструктор вклада</string>
+    <string name="deposit_open_designer_view_chips_currency_title">Валюта</string>
+    <string name="deposit_open_designer_view_chips_type_title">Тип</string>
+    <string name="deposit_open_designer_view_chips_term_title">Срок</string>
+    <string name="deposit_open_designer_view_button_title">Рассчитать</string>
+    <string-array name="deposit_open_designer_view_chips_type_tags">
+        <item>Отзывный</item>
+        <item>Безотзывный</item>
+    </string-array>
+
+    <string name="deposit_open_templates_fragment_toolbar_title">Альфа-Вклады</string>
+
+    <string name="deposit_open_condition_top_up_possible_title">Можно пополнять</string>
+    <string name="deposit_open_condition_top_up_impossible_title">Нельзя пополнять</string>
+    <string name="deposit_open_condition_irreducible_balance_title">Неснижаемый остаток %s</string>
+    <string name="deposit_open_condition_revocable_possible_title">Возможность отзыва</string>
+    <string name="deposit_open_condition_revocable_impossible_title">Безотзывный</string>
+    <string name="deposit_open_condition_stable_rate_title">Фиксированная процентная ставка</string>
+    <string name="deposit_open_condition_income_action_period_title">Выплата процентов %s</string>
+    <string name="deposit_open_conditions_title">Условия</string>
+
+    <string name="deposit_open_summary_fragment_info_title">Информация</string>
+    <string name="deposit_open_summary_fragment_amount_title">Сумма вклада</string>
+    <string name="deposit_open_summary_fragment_income_title">Доход по вкладу</string>
+    <string name="deposit_open_summary_fragment_rate_title">Процентная ставка</string>
+    <string name="deposit_open_summary_fragment_account_title">Счёт списания</string>
+    <string name="deposit_open_summary_fragment_button_title">Открыть вклад</string>
